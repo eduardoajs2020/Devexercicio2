@@ -1,0 +1,57 @@
+.superior-container{
+position: absolute;
+width: 1440px;
+height: 62px;
+left: 0px;
+top: 0px;
+
+background: #1890FF;
+}
+
+.home-container{
+position: absolute;
+width: 580px;
+height: 128px;
+left: 120px;
+top: 179px;
+
+font-family: Red Hat Display;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 64px;
+/* or 133% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.02em;
+
+color: #062847;
+}
+
+.text-subtitle{
+position: absolute;
+width: 612px;
+height: 216px;
+left: 120px;
+top: 331px;
+
+font-family:Red Hat Display;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 36px;
+/* or 180% */
+
+
+color: #5A6774;
+}
+
+.button{
+position: absolute;
+width: 101px;
+height: 40px;
+left: 120px;
+top: 595px;
+
+}
